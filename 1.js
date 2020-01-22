@@ -8,3 +8,4 @@ class Figure {
         return `type: ${this.type} size : ${this.size} color: ${this.color}`;
     }
 }
+let figure1 = require('./data');
