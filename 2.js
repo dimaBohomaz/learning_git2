@@ -1,0 +1,1 @@
+let go = require('./1.js');
