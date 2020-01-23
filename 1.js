@@ -14,5 +14,5 @@ class Figure {
 }
 let figure1 = require('./data');
 let square1 = new Figure(figure1.type, figure1.size, figure1.color);
-console.log(Figure.prototype.getOne());
+console.log(square1.getInfo());
 console.log(Object.getOwnPropertyNames(figure1));
