@@ -1,0 +1,1 @@
+let register = (login, password) => `Account was registed ${password} ${login}`;
